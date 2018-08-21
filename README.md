@@ -1,2 +1,3 @@
 # hello-world
-Github Repo 
+
+What a beautiful day! Live every moment to the fullest because time don't wait. :)
